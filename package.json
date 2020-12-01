@@ -1,6 +1,7 @@
 {
-  "name": "vue3.x-template",
-  "version": "0.1.0",
+  "name": "{{projectName}}",
+  "version": "{{projectVersion}}",
+  "description": "{{projectDescription}}",
   "private": true,
   "scripts": {
     "start": "npm run serve",
